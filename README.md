@@ -1,3 +1,3 @@
 # mtkc.gh.allegrogroup.com
 
-##Subdomain Takeover by PROFESSOR
+Subdomain Takeover by PROFESSOR
